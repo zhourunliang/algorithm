@@ -73,7 +73,7 @@ LinkedList.prototype.log = function() {
 
 var list = new LinkedList()
 list.append('hello')
-list.append('gua')
+list.append('hi')
 list.append('你好')
 list.log()
 log(list.length())
